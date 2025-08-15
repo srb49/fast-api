@@ -1,4 +1,4 @@
-# FastAPI Examples
+# FastAPI 
 
 This repository contains simple FastAPI projects:
 
