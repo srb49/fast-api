@@ -1,6 +1,6 @@
 # FastAPI 
 
-This repository contains simple FastAPI projects:
+This repository contains some FastAPI projects:
 
 - `main.py`: FastAPI starter application with an example endpoint.
 - `calculator.py`: A basic calculator API that supports addition, subtraction, multiplication, and division.
